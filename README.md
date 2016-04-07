@@ -9,7 +9,7 @@ This module, created using Features, creates a content type for alumni updates. 
 * Copy hsu_alumni_updates and dependencies (if not there already) in sites/all/module
 * Turn on the module
 * Visit http://sitename/import
-* Click on Alumi Updates
+* Click on Alumni Updates
 * Insert url for feed: http://magazine.humboldt.edu/name-of-feed (obtained from webadmin@humboldt.edu)
 
-_The description field is set to full html to properly parse the rss feed. Depending on the text formats setup on your site you may need to edit the importer to use a format that will parse the description field properly._
+_The description field is set to full-html to properly parse the RSS feed. Depending on the text formats setup on your site you may need to edit the importer to use a format that will parse the description field properly._
