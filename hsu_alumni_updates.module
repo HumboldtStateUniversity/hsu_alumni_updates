@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HSU Alumni Updates feature.
+ */
+
+include_once 'hsu_alumni_updates.features.inc';
