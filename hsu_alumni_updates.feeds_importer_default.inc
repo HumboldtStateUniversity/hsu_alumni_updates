@@ -41,7 +41,7 @@ function hsu_alumni_updates_feeds_importer_default() {
           0 => array(
             'source' => 'title',
             'target' => 'title',
-            'unique' => FALSE,
+            'unique' => TRUE,
             'language' => 'und',
           ),
           1 => array(
